@@ -197,7 +197,8 @@
 }
 
 body:not(.rtl) .elementor-544 .elementor-element.elementor-element-800553f {
-  left: 33%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 body.rtl .elementor-544 .elementor-element.elementor-element-800553f {
