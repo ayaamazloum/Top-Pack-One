@@ -172,6 +172,10 @@
   padding: 160px 0px 0px 0px;
 }
 
+.paper-options-section {
+  padding: 0px 0px 60px 0px !important;
+}
+
 .elementor-544 .elementor-element.elementor-element-386bdb9>.elementor-element-populated {
   padding: 0px 0px 0px 0px;
 }
