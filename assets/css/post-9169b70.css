@@ -1134,6 +1134,10 @@ body:not(.rtl) .elementor-916 .elementor-element.elementor-element-93a1485 .elem
   color: var(--e-global-color-secondary)!important;
 }
 
+.swiper-slide img {
+  height: 300px;
+}
+
 @media (min-width: 768px) {
   .elementor-916 .elementor-element.elementor-element-92136c5 {
     width: 45%;
