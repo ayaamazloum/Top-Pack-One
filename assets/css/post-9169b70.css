@@ -1114,6 +1114,26 @@ body:not(.rtl) .elementor-916 .elementor-element.elementor-element-93a1485 .elem
   margin-left: 10px;
 }
 
+.swiper-pagination {
+  bottom: 10px;
+}
+
+.swiper-pagination-bullet {
+  background: #555;
+  width: 10px;
+  height: 10px;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  background: #000;
+  opacity: 1;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: var(--e-global-color-secondary)!important;
+}
+
 @media (min-width: 768px) {
   .elementor-916 .elementor-element.elementor-element-92136c5 {
     width: 45%;
