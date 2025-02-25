@@ -5,10 +5,15 @@
 .elementor-544 .elementor-element.elementor-element-73ddb45:not(.elementor-motion-effects-element-type-background),
 .elementor-544 .elementor-element.elementor-element-73ddb45>.elementor-motion-effects-container>.elementor-motion-effects-layer {
   background-color: #f5f5f5;
-  background-image: url("../img/minimal-packaging-branding-for-aromatic-brands-with-design-space-e1656316984610.jpg");
+  background-image: url("../img/E-Commerce\ Packaging\ Cover.jpg");
   background-position: 0 -30px;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.elementor-544.career-page .elementor-element.elementor-element-73ddb45:not(.elementor-motion-effects-element-type-background),
+.elementor-544.career-page .elementor-element.elementor-element-73ddb45>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("../img/products/for\ your\ business\ 05.jpg");
 }
 
 .elementor-544 .elementor-element.elementor-element-73ddb45>.elementor-background-overlay {
@@ -227,7 +232,7 @@ body.rtl .elementor-544 .elementor-element.elementor-element-800553f {
 }
 
 .elementor-544 .elementor-element.elementor-element-8707f81 .elementor-heading-title {
-  color: var(--e-global-color-primary);
+  color: var(--e-global-color-secondary);
   font-family: var(--e-global-typography-5369ec4-font-family), Sans-serif;
   font-size: var(--e-global-typography-5369ec4-font-size);
   font-weight: var(--e-global-typography-5369ec4-font-weight);
@@ -336,7 +341,7 @@ body.rtl .elementor-544 .elementor-element.elementor-element-800553f {
 
 .elementor-544 .elementor-element.elementor-element-d0c6f8d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-544 .elementor-element.elementor-element-d0c6f8d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("../img/the-idea-of-packaging-and-gift-a-box-for-an-autumn-or-winter-gift-with-sweets-and-dried-vegetables--e1656316744480.jpg");
+  background-image: url("../img/products/for\ your\ business\ 02.jpg");
   background-position: 0px 0%;
   background-size: cover;
 }
