@@ -77,7 +77,7 @@
                       <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
                           <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span>
-                        <span class="elementor-icon-list-text">Taanayel , Industrial Zone</span>
+                        <span class="elementor-icon-list-text">Taanayel, Industrial Zone</span>
                       </li>
                       <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
@@ -138,7 +138,7 @@
               <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-6812ee3 elementor-widget elementor-widget-text-editor" data-id="6812ee3" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                    <p>© 2024 TopPackOne | All rights reserved.</p>
+                    <p>© <?php echo date("Y"); ?> TopPackOne | All rights reserved.</p>
                   </div>
                 </div>
               </div>
